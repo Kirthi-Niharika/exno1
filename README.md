@@ -36,10 +36,6 @@ df.dropna(axis=0)
 df.fillna(0)
 
 ```
-# For loan_set
-```
-
-```
  # Output
  # For Data_Set
  ![alt text](image-1.png)
